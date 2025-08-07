@@ -6,7 +6,6 @@
 
 <div style="display: flex; align-items: center; gap: 15px;">
   <h3>Hello world 🌍</h3>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=breno505.breno505&left_text=Profile%20views" />
   <h3>I'm Breno! Welcome to my profile.</h3>
 </div>
 
@@ -62,3 +61,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/breno505/breno505/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/breno505/breno505/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=breno505.breno505&left_text=Profile%20views"  />
+</div>
