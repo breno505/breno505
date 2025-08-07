@@ -54,6 +54,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=breno505&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=breno505.breno505&left_text=Profile%20views"  />
 </div>
