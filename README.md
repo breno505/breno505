@@ -8,8 +8,9 @@
   <h3>Hello world 🌍</h3>
   <h3>I'm Breno! Welcome to my profile.</h3>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=breno505.breno505&left_text=Profile%20views"  />
+  
   ###
-  <br>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
