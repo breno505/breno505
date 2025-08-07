@@ -7,6 +7,7 @@
 <div align="left">
   <h3>Hello world 🌍</h3>
   <h3>I'm Breno! Welcome to my profile.</h3>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=breno505.breno505&"  />
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
@@ -42,7 +43,6 @@
   <a href="https://www.instagram.com/breno505_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=breno505.breno505&left_text=Profile%20views"  />
 </div>
 
 ###
