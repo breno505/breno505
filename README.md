@@ -5,9 +5,8 @@
 [<img align="right" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />](https://github.com/breno505?tab=repositories)
 
 <div align="left">
-  <h3>Hello world 🌍</h3>
+  <h3>Hello world 🌍</h3> <img src="https://visitor-badge.laobi.icu/badge?page_id=breno505.breno505&left_text=Profile%20views"  />
   <h3>I'm Breno! Welcome to my profile.</h3>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=breno505.breno505&left_text=Profile%20views"  />
   
   ###
   
