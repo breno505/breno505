@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/breno505?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=30&lines=Programming+the+future;One+commit+at+a+time" alt="Typing SVG" /></a>
+<a href="https://github.com/breno505?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=30&lines=👾+Programming+the+future+👾;👾+One+commit+at+a+time+👾" alt="Typing SVG" /></a>
 </p>
 
 [<img align="right" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />](https://github.com/breno505?tab=repositories)
